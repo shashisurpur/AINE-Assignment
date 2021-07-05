@@ -1,0 +1,15 @@
+.custome_container{
+    min-width: max-content;
+  
+    min-height: 620px;
+    margin-left: 200px;
+}
+.header_container{
+    min-width: 100%;
+    min-height: 80px;
+    background-color: white;
+}
+
+.main_layout{
+    background-color: rgb(212, 209, 209);
+}
